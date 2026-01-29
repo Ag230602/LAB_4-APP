@@ -1,0 +1,12 @@
+Resource allocation strategy under constraints
+
+Emergency resources include shelters, medical units, search-and-rescue teams, and repair crews. Because resources are limited, planners use triage principles: protect life first, then critical infrastructure, then broader community recovery.
+
+A practical allocation strategy:
+1) Identify high-risk counties (probability thresholds for wind/flood).
+2) Within high-risk counties, rank by vulnerability (children, elderly, low mobility).
+3) Reserve a portion of resources for forecast shifts (flex capacity).
+4) Place repair crews near likely damage corridors but outside hazard zones.
+5) Update allocations each forecast cycle; avoid unnecessary oscillation by using “change thresholds” (e.g., only move a staging site if risk changes by more than 10 percentage points).
+
+The dashboard should explain allocations in plain language: “County A gets 2 shelters because it has high flood probability and high vulnerability.”
