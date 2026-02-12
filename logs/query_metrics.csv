@@ -1,0 +1,3 @@
+timestamp,query_id,retrieval_mode,top_k,latency_ms,Precision@5,Recall@10,evidence_ids_returned,faithfulness_pass,missing_evidence_behavior
+2026-02-12T17:06:03.780642+00:00,Q1,hybrid,10,50.64,0.2,1.0,D1 T1 D2 A1,True,ok
+2026-02-12T17:07:17.897895+00:00,Q1,hybrid,10,39.0,0.2,1.0,D1 T1 D2 A1,True,ok

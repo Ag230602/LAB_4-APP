@@ -1,0 +1,33 @@
+{
+  "project_name": "YOUR_PROJECT_NAME",
+  "evidence": [
+    {
+      "id": "D1",
+      "type": "document",
+      "path": "data/docs/doc1.md",
+      "title": "Doc 1 (replace)",
+      "text_hint": "Replace with your Lab-3 document text or PDF-extracted text."
+    },
+    {
+      "id": "D2",
+      "type": "document",
+      "path": "data/docs/doc2.md",
+      "title": "Doc 2 (replace)",
+      "text_hint": "Replace with your Lab-3 document text or PDF-extracted text."
+    },
+    {
+      "id": "A1",
+      "type": "image",
+      "path": "data/assets/figure1.png",
+      "title": "Figure 1 (replace)",
+      "caption": "Replace with a caption or alt-text describing the figure."
+    },
+    {
+      "id": "T1",
+      "type": "table",
+      "path": "data/assets/table1.md",
+      "title": "Table 1 (replace)",
+      "caption": "Replace with a textual representation of the table (markdown)."
+    }
+  ]
+}

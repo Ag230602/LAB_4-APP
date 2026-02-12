@@ -1,0 +1,8 @@
+streamlit==1.41.0
+pandas==2.2.3
+numpy>=2.1.0
+scikit-learn>=1.7.0
+rank-bm25==0.2.2
+sentence-transformers
+torch
+Pillow==10.4.0
