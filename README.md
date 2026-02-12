@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CS5542 Lab 4 — Single-Person RAG App (Streamlit + GitHub Deployment)
 
 This repo is a **single-person** implementation of Lab 4 requirements:
@@ -56,3 +57,6 @@ Add your deployed link here in README once live.
 
 Write-ups:
 - `reports/failure_analysis.md` (1 retrieval failure + 1 grounding/missing-evidence failure)
+=======
+# Big_data_2026_ag
+>>>>>>> 89823e16ca7f60518803c0ce7ca42228368fc620

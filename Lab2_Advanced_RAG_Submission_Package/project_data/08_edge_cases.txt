@@ -1,0 +1,17 @@
+Ambiguous queries and edge cases in emergency planning
+
+Ambiguous queries occur when the user does not specify:
+- a time horizon (before vs after landfall),
+- a geography (county vs city vs corridor),
+- a decision objective (life safety vs economic recovery),
+- or a threshold (probability cutoff).
+
+Examples:
+- “Where should we deploy help?” (help could mean shelters, medical, or repair crews)
+- “Which area is worst?” (worst by wind? flood? vulnerability? recovery time?)
+
+A robust RAG system should respond by:
+1) Asking a clarification question, or
+2) Providing multiple possible interpretations with evidence, clearly labeled.
+
+For edge-case evaluation, the rubric should require the system to acknowledge ambiguity and avoid over-confident single answers without specifying assumptions.
